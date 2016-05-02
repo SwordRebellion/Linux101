@@ -6,4 +6,4 @@ calculator.o:calculator.c
 	gcc -c calculator.c
 
 clean: 
-	rm main *.o
+	rm main.o
